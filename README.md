@@ -1,9 +1,13 @@
-Consumiendo una API de películas
 
-para empezar:
-clona el repo----> https://github.com/mariacastrotorres/Proyecto-Final_Testing.git
+# Consumiendo una API de peliculas
 
-Autores(as):
-•	Cristina Cedillo
-•	María Castro
+## Comenzando 🚀
+*clona el repo:* *https://github.com/mariacastrotorres/Proyecto-Final_Testing.git*
+
+
+## Autores ✒️
+
+* **Cristina Cedillo** - *Trabajo Inicial* -
+* **Maria Castro** - *Documentación* -
+
 
