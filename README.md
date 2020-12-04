@@ -7,7 +7,7 @@
 
 ## Autores ✒️
 
-* **Cristina Cedillo** - *Trabajo Inicial* -
-* **Maria Castro** - *Documentación* -
+* **Cristina Cedillo** 
+* **Maria Castro** 
 
 
